@@ -1,5 +1,5 @@
 # Local File Inclusion Fuzzer  
-This is a Local File Inclusion (LFI) fuzzer designed for the LOFI room on TryHackMe.  
-It automates the process of testing for LFI vulnerabilities by attempting various paths using your wordlist
+This is an LFI fuzzer I created during the exploration process of the LOFI room on TryHackMe.  
+In the end, it wasn't the most useful thing in the world... lol  
 
-[Link to the TryHackMe room](https://tryhackme.com/room/lofi)
+[Link to the TryHackMe room](https://tryhackme.com/room/lofi)  
