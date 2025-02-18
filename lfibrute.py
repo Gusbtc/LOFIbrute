@@ -3,7 +3,7 @@
 
 import requests
 
-alvo = input('IP da maquina >>> ')
+alvo = input('Target IP >>> ')
 wordlist = input('Wordlist >>> ')
 
 try:
@@ -17,6 +17,6 @@ try:
 				pass
 				#print(f'{i} invalido')
 			else:
-				print(f'{i} ENCONTRADO')
+				print(f'{i} FOUND')
 except KeyboardInterrupt:
-	print('Saindo...')
+	print('Leaving...')
