@@ -1,4 +1,4 @@
-#!/bin/python3
+#!usr/bin/python3
 # Enumerador de LFI feito por GusBTC para a room LOFI do Try Hack Me
 
 import requests
